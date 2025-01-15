@@ -1,1 +1,3 @@
-# sum-of-two-numbers-in-python
+# itskhushi 
+this is my first git repository
+Author - khushi verma
